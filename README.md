@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aaron-Thai
-- 👀 I’m interested in ... sleeping
+- 👀 I’m interested in ... finding full time employment
 - 🌱 I’m currently learning ... how to use GitHub and R
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... aaron42@uw.edu
+- 📫 How to reach me ... aaronthai42@gmail.com
 
 <!---
 Aaron-Thai/Aaron-Thai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
